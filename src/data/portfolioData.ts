@@ -11,13 +11,13 @@ import type {
 
 export const personalInfo: PersonalInfo = {
   name: "Arunkumar R",
-  role: "Data Engineer & Analyst",
+  role: "Data Analyst",
   subtitles: [
-    "Data Engineer",
-    "Senior Data Analyst",
-    "BI & Analytics Professional",
-    "Database Architect",
-    "IT Professional"
+    "Data Analyst",
+    "Associate Data Analyst",
+    "BI Analyst Trainee",
+    "Data Science Enthusiast",
+    "Quantitative Analyst"
   ],
   location: "Velachery, Chennai, Tamil Nadu",
   phone: "+91 6381641778",
@@ -25,9 +25,9 @@ export const personalInfo: PersonalInfo = {
   linkedin: "https://www.linkedin.com/in/arunkumar-r-06aa1143b",
   photoUrl: "/arunkumar_suit.jpg",
   summary:
-    "Results-driven IT Professional and Data Specialist with a proven track record of designing data pipelines, optimizing complex SQL queries, and building scalable business intelligence solutions. Experienced in transforming enterprise data into actionable insights using Python, Power BI, and modern IT infrastructure to drive strategic business decisions.",
+    "Motivated Data Analyst and M.Sc. Mathematics graduate (2025) with a strong foundation in statistical modeling and data manipulation. Skilled in SQL, Python, Power BI, and Tableau, eager to transform complex datasets into actionable insights and contribute to data-driven business solutions.",
   availableForWork: true,
-  statusBadge: "IT Professional | Data Engineering & Analytics",
+  statusBadge: "Available for Entry-Level Roles",
 };
 
 export const analyticsSnapshots: MetricSnapshot[] = [
